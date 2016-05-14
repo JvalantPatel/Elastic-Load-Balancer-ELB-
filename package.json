@@ -1,0 +1,22 @@
+{
+	"name": "elastic-load-balancer",
+	"main": "app.js",
+	"dependencies": {
+		"express":"~4.10.1",
+		"body-parser": "~1.9.2",
+		"compression": "~1.2.0",
+		"cuid": "~1.2.4",
+		"http-proxy": "~1.6.0",
+		"connect-gzip" :"~0.1.6",
+		"connect":"~3.3.3",
+		"node-uuid": "~1.4.1",
+		"colors": "~1.0.3",
+		"winston": "~0.8.3",
+		"util": "~0.10.3",
+		"mongodb": "~1.4.22",
+        "ejs": "~1.0.0",
+        "express-session": "~1.9.1",
+        "path":"~0.4.9",
+        "fs": "~0.0.2"
+	}
+}
